@@ -1,0 +1,25 @@
+"*":
+  "exception-reporting":
+    userId: "2cec0e6a-39e8-55a7-87b0-85307ff4d77c"
+  welcome:
+    showOnStartup: false
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "vim-mode"
+    ]
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    fontFamily: "PT Mono"
+    scrollPastEnd: true
+    showInvisibles: true
+    fontSize: 15
+  "markdown-preview": {}
+  "atom-beautify":
+    _analyticsUserId: "84dfe88b-df89-49ac-9335-f32e1469c758"
+  "one-dark-ui": {}
+  emmet: {}
+  pigments:
+    markerType: "dot"
+  "vim-mode": {}
